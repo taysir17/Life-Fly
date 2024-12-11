@@ -39,6 +39,7 @@ At the age of 16, amidst the challenges of the COVID-19 pandemic, I envisioned a
 
 ### **Videos & Images:**
 - [Organ Transport Drone Demo](./assets/videos/drone.gif)
+- [Intelligent Medical Assistant Overview](./assets/videos/robot.gif)
 - **Starting Design of the Drone:**
   ![Demo Drone Design](./assets/images/demoDrone1.jpg)
 
