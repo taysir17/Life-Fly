@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-The idea for **Life Fly** began during the COVID-19 pandemic, a time when hospitals faced unprecedented challenges. Despite my aspiration to become a doctor, my journey took a different path, leading me to explore how technology could revolutionize healthcare. **Life Fly** is the realization of that dream, combining **artificial intelligence** and **computer science** to address critical challenges in global healthcare.
+The idea for **Life Fly** began during the COVID-19 pandemic, a time when hospitals faced unprecedented challenges. Despite my aspiration to become a doctor, my journey took a different path, leading me to explore how technology could revolutionize healthcare. **Life Fly** is the realization of that dream, combining innovative concepts to address critical challenges in global healthcare.
 
 ### **Mission Statement**
 To harness the power of technology to save lives by addressing two critical healthcare challenges: **organ transportation** and **emergency medical intervention.**
@@ -39,20 +39,11 @@ At the age of 16, amidst the challenges of the COVID-19 pandemic, I envisioned a
 
 ### **Videos & Images:**
 - [Organ Transport Drone Demo](./assets/videos/drone.gif)
-- [Intelligent Medical Assistant Overview](./assets/videos/robot.gif)
 - **Starting Design of the Drone:**
   ![Demo Drone Design](./assets/images/demoDrone1.jpg)
 
 ### **Certificate:**
 View the certificate of participation in the entrepreneurship event [here](./Certif.pdf).
-
-## 🛠️ Technologies Used
-- **Hardware:**
-  - Custom-designed drones with AI-enhanced navigation.
-  - Sensors for real-time health monitoring.
-- **Software:**
-  - AI-based decision-making algorithms.
-  - Real-time data visualization.
 
 ## 🌍 Impact Goals
 - Increase transplant success rates by reducing transportation times.
@@ -61,7 +52,7 @@ View the certificate of participation in the entrepreneurship event [here](./Cer
 
 ## 🏆 Achievements
 - **Pitched at:** Student Entrepreneurship Hub (Year 2).
-- **Recognized for:** Innovation in leveraging AI for healthcare.
+- **Recognized for:** Innovation in leveraging technology for healthcare.
 
 ## 📂 Repository Structure
 ```plaintext
