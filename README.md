@@ -69,9 +69,8 @@ LifeFly/
 │   │   └── robot.gif
 │   │   └── drone.mp4
 │   │   └── robot.mp4
-├── docs/
-│   └── additional_docs_here.pdf
 ├── Certif.jpg
+├── lifefly1 [Autosaved].pptx
 ├── LICENSE
 ├── README.md
 ```
