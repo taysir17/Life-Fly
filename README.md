@@ -44,7 +44,7 @@ At the age of 16, amidst the challenges of the COVID-19 pandemic, I envisioned a
   ![Demo Drone Design](./assets/images/demoDrone1.jpg)
 
 ### **Certificate:**
-View the certificate of participation in the entrepreneurship event [here](./Certif.pdf).
+View the certificate of participation in the entrepreneurship event [here](./Certif.jpg).
 
 ## 🌍 Impact Goals
 - Increase transplant success rates by reducing transportation times.
